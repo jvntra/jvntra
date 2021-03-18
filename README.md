@@ -18,10 +18,11 @@
 
 -->
 
-![](particles_wide_banner.gif){:width="50%"}
+<img src="https://thumbs.gfycat.com/NeighboringAcrobaticIbis-size_restricted.gif" width="100%">
+
 
 <!-- 
-
+![banner](https://thumbs.gfycat.com/NeighboringAcrobaticIbis-size_restricted.gif)
 *** NAME BANNER ***
 
 • Created with tsParticles: https://particles.js.org/ 
