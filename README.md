@@ -18,7 +18,7 @@
 
 -->
 
-![](particles_wide.gif)
+![](particles_wide_banner.gif)
 
 <!-- 
 
