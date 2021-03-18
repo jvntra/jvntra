@@ -18,7 +18,7 @@
 
 -->
 
-![](particles_resize.gif)
+![](particles_wide_banner.gif){:width="50%"}
 
 <!-- 
 
