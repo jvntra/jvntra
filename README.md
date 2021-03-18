@@ -43,7 +43,6 @@
 
  -->
 
-![Hi! I'm JP, a Data Scientist and Astronomer in NYC.](header-intro.png) 
 
 <!-- 
 
@@ -64,13 +63,13 @@
 :red_circle: &nbsp;My pronouns are  **he** / **him** / **el**
 
 
-:blue_circle: &nbsp;I'm currently working on <a href="https://www.100daysofcode.com/">**#100DaysOfCode**.</a>
+:large_blue_circle: &nbsp;I'm currently working on <a href="https://www.100daysofcode.com/">**#100DaysOfCode**.</a>
 
-:yellow_circle: &nbsp;I'm currently learning about **tableau** and **recommendation engines** .
+:large_yellow_circle: &nbsp;I'm currently learning about **tableau** and **recommendation engines** .
 
-:green_circle: &nbsp;Ask me about Space, Sci-fi, and the history of House music.
+:large_green_circle: &nbsp;Ask me about Space, Sci-fi, and the history of House music.
 
-:orange_circle: &nbsp;Fun Fact: I was once a performing DJ.
+:large_orange_circle: &nbsp;Fun Fact: I was once a performing DJ.
 
 # 
 
