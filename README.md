@@ -60,16 +60,16 @@
 
  -->
 
-:red_circle: &nbsp;My pronouns are  **he** / **him** / **el**
+:large_blue_circle: &nbsp;My pronouns are  **he** / **him** / **el**
 
 
-:red_circle: &nbsp;I'm currently working on <a href="https://www.100daysofcode.com/">**#100DaysOfCode**.</a>
+:large_blue_circle: &nbsp;I'm currently working on <a href="https://www.100daysofcode.com/">**#100DaysOfCode**.</a>
 
-:red_circle: &nbsp;I'm currently learning about **tableau** and **recommendation engines** .
+:large_blue_circle: &nbsp;I'm currently learning about **tableau** and **recommendation engines** .
 
-:red_circle: &nbsp;Ask me about Space, Sci-fi, and the history of House music.
+:large_blue_circle: &nbsp;Ask me about Space, Sci-fi, and the history of House music.
 
-:red_circle: &nbsp;Fun Fact: I was once a performing DJ.
+:large_blue_circle: &nbsp;Fun Fact: I was once a performing DJ.
 
 # 
 
