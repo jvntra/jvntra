@@ -68,9 +68,9 @@
 
 :large_blue_circle: &nbsp; I'm currently learning about **tableau** and **recommendation engines** .
 
-:large_blue_circle: &nbsp; Ask me about Space, Sci-fi, and the history of House music.
+:large_blue_circle: &nbsp; Ask me about Space, Sci-fi, Statistics and House music.
 
-:large_blue_circle: &nbsp; Fun Fact: I've was previously a research associate in Astrophysics and Planetary Science.
+:large_blue_circle: &nbsp; Fun Facts: I've published research in Astrophysics and Planetary Science and was once a performing DJ.
 
 # 
 
