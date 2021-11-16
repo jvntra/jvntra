@@ -63,10 +63,7 @@
 
 :large_blue_circle: &nbsp; My pronouns are  **he** / **him** / **el**
 
-
-:large_blue_circle: &nbsp; I'm currently working on <a href="https://www.100daysofcode.com/">**#100DaysOfCode**.</a>
-
-:large_blue_circle: &nbsp; I'm currently learning about **tableau** and **recommendation engines** .
+:large_blue_circle: &nbsp; I'm currently working on detecting hate speech on social media via an Omdena challenge.</a>
 
 :large_blue_circle: &nbsp; Ask me about Space, Sci-fi, Statistics and House music.
 
