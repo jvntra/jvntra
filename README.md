@@ -58,7 +58,7 @@
 
  -->
 
-Thanks for stopping by!
+<font size="3"> **Thanks for stopping by!** </font>
 
 My name is Jean-Paul (JP) Ventura.
 
