@@ -62,14 +62,13 @@
 
 My name is Jean-Paul (JP) Ventura.
 
-I used to work in Physics with a specialty in Astrophysics and Planetary Science research before I turned to focus full time on Data Science. I am interested in creating narratives and communicating them using data. I spend my time learning new topics about machine learning, working on open source projects within the community, writing articles on medium about techniques that I'm learning and teaching high school students about how to code in Python as well as introductory Statistics.
+I used to work in Physics with a specialty in Astrophysics and Planetary Science research before I turned to focus full time on Data Science. I am interested in creating narratives and communicating them using data. I spend my time learning new topics about machine learning, working on projects within the community, writing articles on medium about techniques that I'm learning and tutoring high school students in Statistics and about how to code in Python.
 
 As a former research scientist I've found detailing exploratory analysis and using data to gain insight are the most exciting aspects of Data Science.
 
 Projects I am currently working on include:
 
-
-* Detecting hate speech in social media postings using NLP techniques via an Omdena challenge.
+* Detecting hate speech in social media postings using NLP techniques.
 * Building and evaluating a movie recommendation system.
 
 Fun facts & other things:
