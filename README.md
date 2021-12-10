@@ -73,14 +73,16 @@ Projects I am currently working on include:
 
 Fun facts & other things:
 
-:large_blue_circle: &nbsp; Ask me about Space, Sci-fi, Statistics and House music (Especially the classic stuff).
+:large_blue_circle: &nbsp; Ask me about Space, Sci-fi, Statistics, Disco, Soul and House music (Especially the classic stuff).
 
 :large_blue_circle: &nbsp; I'm a geek about natural history, the environment and the cosmos.
 
-:large_blue_circle: &nbsp; I've published research in Astrophysics and Planetary Science.
+:large_blue_circle: &nbsp; I've published research in Astrophysics.
 
-:large_blue_circle: &nbsp; I've had the pleasure of observing and studyng several neighboring Comets.
+:large_blue_circle: &nbsp; I've had the pleasure of observing comets with a state-of-the art telescope.
 
 :large_blue_circle: &nbsp; I was once a professional performing DJ. 
 
 :large_blue_circle: &nbsp; In my spare time, I learn piano and music production.
+
+This is my Cat Ghost and My Indonesian Blue Tongue Skink, Salerosa (Sally for short).
