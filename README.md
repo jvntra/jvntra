@@ -85,4 +85,6 @@ Fun facts & other things:
 
 :large_blue_circle: &nbsp; In my spare time, I learn piano and music production.
 
-This is my Cat Ghost and My Indonesian Blue Tongue Skink, Salerosa (Sally for short).
+:large_blue_circle: &nbsp; I was once a professional performing DJ. 
+
+:large_blue_circle: &nbsp; I have Russian Blue cat, Ghost and an Indonesian blue tongued skink, Salerosa (Sally for short).
