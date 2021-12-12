@@ -79,9 +79,7 @@ Fun facts & other things:
 
 :large_blue_circle: &nbsp; I've published research in Astrophysics.
 
-:large_blue_circle: &nbsp; I've had the pleasure of observing comets with a state-of-the art telescope.
-
-:large_blue_circle: &nbsp; I was once a professional performing DJ. 
+:large_blue_circle: &nbsp; I've had the pleasure of studying comets with state-of-the art technology.
 
 :large_blue_circle: &nbsp; In my spare time, I learn piano and music production.
 
