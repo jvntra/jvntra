@@ -64,7 +64,7 @@ My name is Jean-Paul (JP) Ventura.
 
 I used to work in Physics with a specialty in Astrophysics and Planetary Science research before I turned to focus full time on Data Science. I am interested in crafting narratives using data and communicating them using my technical and non-technical skills. I spend my time learning new topics about machine learning, working on projects within the community, writing articles on medium about techniques that I'm learning and tutoring high school students in Statistics and about how to code in Python.
 
-As a former research scientist I've found detailing exploratory analysis and using data to gain insight are the most exciting aspects of Data Science.
+As a former research scientist I've found exploratory data analysis and using data to gain insight are the most exciting aspects of Data Science.
 
 Projects I am currently working on include:
 
@@ -73,16 +73,14 @@ Projects I am currently working on include:
 
 Fun facts & other things:
 
-:large_blue_circle: &nbsp; Ask me about Space, Sci-fi, Statistics, Disco, Soul and House music (Especially the classic stuff).
+:large_blue_circle: &nbsp; Ask me about Space, Sci-fi, Statistics, Disco, Soul and House music (Especially the classics).
 
 :large_blue_circle: &nbsp; I'm a geek about natural history, the environment and the cosmos.
 
 :large_blue_circle: &nbsp; I've published research in Astrophysics.
 
-:large_blue_circle: &nbsp; I've had the pleasure of studying comets with state-of-the art technology.
-
 :large_blue_circle: &nbsp; In my spare time, I learn piano and music production.
 
 :large_blue_circle: &nbsp; I was once a professional performing DJ. 
 
-:large_blue_circle: &nbsp; I have Russian Blue cat, Ghost and an Indonesian blue tongued skink, Salerosa (Sally for short).
+:large_blue_circle: &nbsp; I have Russian Blue cat, Ghost and an indonesian blue tongued skink, Salerosa (Sally for short).
