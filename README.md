@@ -73,7 +73,7 @@ Projects I am currently working on include:
 
 Fun facts & other things:
 
-:large_blue_circle: &nbsp; Ask me about Space, Sci-fi, Statistics, Disco, Soul and House music (Especially the classics).
+:large_blue_circle: &nbsp; Ask me about Space, Sci-fi, Statistics, Disco, Soul and House music.
 
 :large_blue_circle: &nbsp; I'm a geek about natural history, the environment and the cosmos.
 
