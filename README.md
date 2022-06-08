@@ -62,25 +62,20 @@
 
 My name is Jean-Paul (JP) Ventura.
 
-I used to work in Physics with a focus in Astrophysics research before I turned to focus full time on Data Science. I am interested in crafting narratives using data and communicating them using my technical and non-technical skills. I spend my time learning new topics about machine learning, working on projects within the community, writing articles on medium about techniques that I'm learning and tutoring high school students in Statistics and about how to code in Python.
+I used to work in Physics with a focus in Astrophysics research before I turned to focus full time on Data Science. I am interested in using data to craft compelling narratives and communicating them using my technical and non-technical skills. I spend my time reviewing topics in machine learning, working on projects within the community, writing articles on medium about techniques of interest and teaching second-career students in Statistics, Data Science, Python programming and SQL.
 
-As a former research scientist I've found exploratory data analysis and using data to gain insight into systems are the most exciting aspects of Data Science.
+Throughout my career, I've found exploratory data analysis using data to gain insight about systems and products are the most exciting aspects of Data Science.
 
 Projects I am currently working on include:
 
-* Detecting hate speech in social media postings using NLP techniques.
-* Building and evaluating a movie recommendation system.
+* Engineering a deep learning model-based movie recommendation system.
 
 Fun facts & other things:
 
-:large_blue_circle: &nbsp; Ask me about Space, Sci-fi, Statistics, Disco, Soul and House music.
+:large_blue_circle: &nbsp; Ask me about Space, Physics or Statistics.
 
-:large_blue_circle: &nbsp; I'm a geek about natural history, the environment and the cosmos.
-
-:large_blue_circle: &nbsp; I've published research in Astrophysics.
+:large_blue_circle: &nbsp; I'm an aficionado of natural history.
 
 :large_blue_circle: &nbsp; In my spare time, I learn piano and music production.
 
-:large_blue_circle: &nbsp; I was once a professional performing DJ. 
-
-:large_blue_circle: &nbsp; I have Russian Blue cat, Ghost and an indonesian blue tongued skink, Salerosa (Sally for short).
+:large_blue_circle: &nbsp; I have Russian Blue cat, Ghost and an indonesian blue tongued skink, Formosa (Fee-Fee).
