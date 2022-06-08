@@ -74,7 +74,7 @@ Fun facts & other things:
 
 :large_blue_circle: &nbsp; Ask me about Space, Physics or Statistics.
 
-:large_blue_circle: &nbsp; I'm an aficionado of natural history.
+:large_blue_circle: &nbsp; I'm a Natural History geek.
 
 :large_blue_circle: &nbsp; In my spare time, I learn piano and music production.
 
