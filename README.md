@@ -62,9 +62,9 @@
 
 My name is Jean-Paul (JP) Ventura.
 
-I used to work in Physics with a focus in Astrophysics research before I turned to focus full time on Data Science. I am interested in using data to craft compelling narratives and communicating them using my technical and non-technical skills. I spend my time reviewing topics in machine learning, working on projects within the community, writing articles on medium about techniques of interest and teaching second-career students in Statistics, Data Science, Python programming and SQL.
+I used to work in Physics with a focus in Astrophysics research before I turned to focus full time on Data Science. I am interested in using data to craft compelling narratives and communicating them using my technical and non-technical skills. I spend my time reviewing topics in machine learning, working on projects within the community, writing articles on medium about techniques of interest and teaching students in Statistics, Data Science, Python programming and SQL.
 
-Throughout my career, I've found exploratory data analysis using data to gain insight about systems and products are the most exciting aspects of Data Science.
+Throughout my career, I've found exploring data and using it to gain insight about products/systems and how to improve them is the most exciting aspect of Data Science.
 
 Projects I am currently working on include:
 
