@@ -76,4 +76,4 @@ Fun facts & other things:
 
 :large_blue_circle: &nbsp; In my spare time, I learn piano, tend to my plants and animals and learn about ML!
 
-:large_blue_circle: &nbsp; I have Russian Blue cat, Ghost and an indonesian blue-tongued skink, Formosa ("Fee-Fee").
+:large_blue_circle: &nbsp; I have Russian Blue cat, Ghost and an indonesian blue-tongued skink, Clarice.
