@@ -62,9 +62,9 @@
 
 My name is Jean-Paul (JP) Ventura.
 
-My background includes computational research in Astrophysics, Education, and Data Science/ML. I am interested in using data to craft compelling narratives while communicating them using my technical and non-technical skills. I spend my time reviewing topics in machine learning, learning about Data Science in the product domain, and writing articles on Medium about techniques of interest. I also teach students about Statistics, Data Science, Python programming, and SQL.
+My background includes computational research in Astrophysics, Education and Data Science/ML. I am interested in using data to craft compelling narratives and communicate them using my technical and non-technical skills. I spend my time reviewing topics in machine learning, learning about Data Science in the product domain, and writing articles on Medium about techniques of interest. I also teach students about Statistics, Data Science, Python programming, and SQL.
 
-Throughout my career, I've found exploring data to gain insight into products/systems and how to improve them are the most exciting aspect of Data Science. In addition to the latter, I find a particular satisfaction in testing theories through experimentation and contextualizing unexpected results.
+Throughout my career, I've found exploring data to gain insight into products/systems the most exciting aspect of Data Science. Furthermore, I find particular satisfaction in testing theories through experimentation and contextualizing unexpected results.
 
 
 Fun facts & other things:
