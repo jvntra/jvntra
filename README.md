@@ -64,4 +64,9 @@ My name is Jean-Paul (JP) Ventura.
 
 My background includes computational research in Astrophysics, Education and Data Science/ML. I am interested in using data to craft compelling narratives and communicate them using my technical and non-technical skills. I spend my time reviewing topics in machine learning, learning about Data Science in the product domain, and writing articles on Medium about techniques of interest. I also teach students about Statistics, Data Science, Python programming, and SQL.
 
+
+
+
+<!-- 
 [![JP's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvntra)](https://github.com/anuraghazra/github-readme-stats)
+-->
