@@ -58,8 +58,11 @@
 
  -->
 
+![banner](https://thumbs.gfycat.com/NeighboringAcrobaticIbis-size_restricted.gif)
+
 
 Data Scientist | Product Analytics & Experimentation specialist 📊📈 | Astrophysics Researcher
+
 Combining 5+ years of scientific research with expertise in machine learning, causal inference, and product analytics. Skilled in Python, SQL, Tableau, and statistical modeling and machine learning. Experienced in A/B testing, multivariate experimentation, and translating complex datasets into actionable insights for product growth and innovation.
 
 
