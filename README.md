@@ -58,13 +58,12 @@
 
  -->
 
+<|--
 <font size="3"> **Thanks for stopping by!** </font>
+-->
 
-My name is Jean-Paul (JP) Ventura.
-
-My background includes computational research in Astrophysics, Education and Data Science/ML. I am interested in using data to craft compelling narratives and communicate them using my technical and non-technical skills. I spend my time reviewing topics in machine learning, learning about Data Science in the product domain, and writing articles on Medium about techniques of interest. I also teach students about Statistics, Data Science, Python programming, and SQL.
-
-
+Data Scientist | Product Analytics & Experimentation specialist 📊📈 | Astrophysics Researcher
+Combining 5+ years of scientific research with expertise in machine learning, causal inference, and product analytics. Skilled in Python, SQL, Tableau, and statistical modeling and machine learning. Experienced in A/B testing, multivariate experimentation, and translating complex datasets into actionable insights for product growth and innovation.
 
 
 <!-- 
