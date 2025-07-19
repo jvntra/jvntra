@@ -61,7 +61,7 @@
 
 **Data Scientist | Product Analytics & Experimentation specialist 📊📈 | Ex-Astronomer**
 
-Combining 5+ years of scientific research with expertise in machine learning, causal inference, and product analytics. Skilled in Python, SQL, Tableau, and statistical modeling and machine learning. Experienced in A/B testing, multivariate experimentation, and translating complex datasets into actionable insights for product growth and innovation.
+Combining 5+ years of scientific research with expertise in machine learning, causal inference, and product analytics. Skilled in Python, SQL, Tableau, statistical modeling and machine learning. Experienced in A/B testing, multivariate experimentation, and translating complex datasets into actionable insights for product growth and innovation.
 
 
 <!-- 
